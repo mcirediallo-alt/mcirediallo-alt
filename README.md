@@ -1,18 +1,19 @@
 # 👋 Salut, moi c'est Mariama Siré DIALLO !
-<marquee behavior="scroll" direction="left" scrollamount="7" style="font-size: 20px; font-weight: bold; color: #2ea44f;">
-    🌍 GÉOMATICIENNE | SPÉCIALISTE SIG & DRONE | EXPERTISE FONCIER, MINES & ENVIRONNEMENT | ANALYSE SPATIALE AU SÉNÉGAL 🇸🇳
-</marquee>
 
-### 🌍 Géomaticienne | Spécialiste SIG & Drone
-Passionnée par l'analyse spatiale et la gestion de projets territoriaux au Sénégal. Mon expertise s'étend de la sécurisation foncière à la surveillance environnementale par drone.
+---
+
+### 🌍 Géomaticienne | Spécialiste SIG & Drone | Expertise Foncier & Mines
+Passionnée par l'analyse spatiale et la gestion de projets territoriaux au Sénégal. Mon expertise s'étend de la sécurisation foncière à la surveillance environnementale par photogrammétrie drone (Agisoft Metashape).
 
 ---
 
 ### 🛠️ Mes Compétences
-* **Logiciels :** QGIS, ArcGIS, Agisoft Metashape (Photogrammétrie).
-* **Développement :** Python (PyQGIS), PostGIS, SQL.
-* **Web :** GeoServer, Leaflet.
-* **Terrain :** Pilotage de Drone, KoboCollect, QField.
+* **SIG & Cartographie :** QGIS (Atlas), ArcGIS.
+* **Photogrammétrie :** Pilotage Drone, Agisoft Metashape.
+* **Base de données :** PostGIS, SQL.
+* **Développement :** Python (PyQGIS).
+* **WebGIS :** GeoServer, Leaflet.
+* **Collecte Terrain :** KoboCollect, QField.
 
 ---
 
