@@ -1,5 +1,4 @@
 # 👋 Salut, moi c'est Mariama Siré DIALLO !
-
 <marquee behavior="scroll" direction="left" scrollamount="7" style="font-size: 20px; font-weight: bold; color: #2ea44f;">
     🌍 GÉOMATICIENNE | SPÉCIALISTE SIG & DRONE | EXPERTISE FONCIER, MINES & ENVIRONNEMENT | ANALYSE SPATIALE AU SÉNÉGAL 🇸🇳
 </marquee>
