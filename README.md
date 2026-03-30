@@ -3,13 +3,17 @@
 ---
 
 ### 🌍 Géomaticienne | Spécialiste SIG & Drone | Expertise Foncier & Mines
-Passionnée par l'analyse spatiale et la gestion de projets territoriaux au Sénégal. Mon expertise s'étend de la sécurisation foncière à la surveillance environnementale par photogrammétrie drone (Agisoft Metashape).
+Passionnée par l'analyse spatiale et la gestion de projets territoriaux au Sénégal. Mon expertise s'étend de la sécurisation foncière à la surveillance environnementale.
 
 ---
 
-### 🛠️ Mes Compétences
-* **SIG & Cartographie :** QGIS (Atlas), ArcGIS.
-* **Photogrammétrie :** Pilotage Drone, Agisoft Metashape.
+### 🛠️ Mes Compétences Clés
+<p align="left">
+  <img src="https://img.shields.io/badge/Expertise-Drone%20&%20SIG-2ea44f?style=for-the-badge&logo=djivirtualstore&logoColor=white" alt="Badge Drone SIG" / >
+  <img src="https://img.shields.io/badge/Photogrammétrie-Agisoft%20Metashape-E11E58?style=for-the-badge&logo=agisoft&logoColor=white" alt="Badge Metashape" / >
+</p>
+
+* **Logiciels :** QGIS (Atlas), ArcGIS.
 * **Base de données :** PostGIS, SQL.
 * **Développement :** Python (PyQGIS).
 * **WebGIS :** GeoServer, Leaflet.
