@@ -51,14 +51,13 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 <div align="center">
 
   ### 📄 Curriculum Vitae
-
   <a href="./CV%20MARIAMA%20SIRE%20DIALLO%20.pdf" target="_blank">
     <img src="https://img.shields.io/badge/TÉLÉCHARGER-MON%20CV%20(PDF)-d13639?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Télécharger mon CV" />
   </a>
 
   <br><br>
 
-  «Transformer la donnée géographique en levier de développement durable. »
+  *« Transformer la donnée géographique en levier de développement durable pour nos territoires. »*
 
   <br><br>
 
@@ -67,4 +66,3 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
   <a href="mailto:mcire.diallo@univ-thies.sn">Contactez-moi</a>
 
 </div>
----
