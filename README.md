@@ -12,13 +12,13 @@
 
 <div style="font-family: 'Times New Roman', serif;">
 
-## À propos de moi
+## 🌍 À propos de moi
 Géomaticienne spécialisée en **Systèmes d’Information Géographique (SIG)**, avec une expertise en **gestion foncière et analyse spatiale**.  
 J’utilise les données géographiques pour produire des outils d’aide à la décision dans des projets territoriaux au Sénégal.
 
 ---
 
-## Domaines d’expertise
+## 🧭 Domaines d’expertise
 - 🛰️ Cartographie et analyse spatiale  
 - 🏞️ Gestion foncière et sécurisation des terres  
 - 🚁 Acquisition et traitement de données drone  
@@ -29,16 +29,19 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 ## 🛠️ Compétences techniques
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,js,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql" />
 </p>
 
 - 🗺️ **SIG :** QGIS, ArcGIS  
 - 🗄️ **Base de données :** PostGIS, pgAdmin  
-- 💻 **Développement :** Python (PyQGIS, GeoPandas), SQL, JavaScript (Leaflet)  
+- 💻 **Développement :** Python (PyQGIS, GeoPandas), SQL  
 - 🌐 **WebSIG :** GeoServer, Leaflet  
 - 🚁 **Drone & Télédétection :** Agisoft Metashape, imagerie satellite  
 - 📱 **Collecte terrain :** KoboCollect, QField  
-## Mes activitées 
+
+---
+
+## 💼 Ce que je fais
 
 - 📍 Production de cartes thématiques avec QGIS (Atlas)  
 - 🗺️ Structuration et gestion de bases de données spatiales  
@@ -56,6 +59,12 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
 <div align="center">
 
-⭐ **« La géomatique au service du territoire et du développement durable »*  
+⭐ *« La géomatique au service du territoire et du développement durable »*  
+
+<br>
+
+👉 **Consultez mon portfolio | Connectez-vous sur LinkedIn | Contactez-moi**
+
+</div>
 
 </div>
