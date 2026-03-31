@@ -12,13 +12,13 @@
 
 <div style="font-family: 'Times New Roman', serif;">
 
-## 🌍 À propos de moi
+## À propos de moi
 Géomaticienne spécialisée en **Systèmes d’Information Géographique (SIG)**, avec une expertise en **gestion foncière et analyse spatiale**.  
 J’utilise les données géographiques pour produire des outils d’aide à la décision dans des projets territoriaux au Sénégal.
 
 ---
 
-## 🧭 Domaines d’expertise
+## Domaines d’expertise
 - 🛰️ Cartographie et analyse spatiale  
 - 🏞️ Gestion foncière et sécurisation des terres  
 - 🚁 Acquisition et traitement de données drone  
@@ -26,7 +26,7 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
 ---
 
-## 🛠️ Compétences techniques
+##  Compétences techniques
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgresql" />
