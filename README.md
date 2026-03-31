@@ -13,16 +13,18 @@
 <div style="font-family: 'Times New Roman', serif;">
 
 ## 🌍 À propos de moi
-Géomaticienne spécialisée en **Systèmes d’Information Géographique (SIG)**, avec une expertise en **gestion foncière, analyse spatiale et suivi environnemental** au Sénégal.  
-Je transforme les données géographiques en outils d’aide à la décision pour des projets territoriaux.
+Géomaticienne spécialisée en **Systèmes d’Information Géographique (SIG)**, avec une expertise en **gestion foncière et analyse spatiale**.  
+J’utilise les données géographiques pour produire des outils d’aide à la décision dans des projets territoriaux au Sénégal.
 
 ---
 
 ## 🧭 Domaines d’expertise
-- 🛰️ Analyse spatiale & cartographie avancée  
-- 🏞️ Gestion foncière & sécurisation des terres  
-- 🚁 Photogrammétrie & traitement drone  
-- 🌱 Suivi environnemental & aménagement du territoire  
+- 🛰️ Cartographie et analyse spatiale  
+- 🏞️ Gestion foncière et sécurisation des terres  
+- 🚁 Acquisition et traitement de données drone  
+- 🌱 Suivi environnemental et aménagement du territoire  
+
+---
 
 ## 🛠️ Compétences techniques
 
@@ -41,13 +43,11 @@ Je transforme les données géographiques en outils d’aide à la décision pou
 
 ## 💼 Ce que je fais
 
-- 📍 Réalisation de cartes thématiques avec QGIS (Atlas)  
-- 🗺️ Gestion et structuration de bases de données spatiales (PostGIS)  
+- 📍 Production de cartes thématiques avec QGIS (Atlas)  
+- 🗺️ Structuration et gestion de bases de données spatiales  
 - 📊 Analyse spatiale pour l’aide à la décision territoriale  
-- 🚁 Traitement et analyse de données drone (photogrammétrie)  
-- 🌐 Développement d’applications WebSIG (GeoServer, Leaflet)  
-
----
+- 🚁 Traitement et valorisation de données drone  
+- 🌐 Conception d’applications WebSIG  
 
 ---
 
@@ -57,6 +57,14 @@ Je transforme les données géographiques en outils d’aide à la décision pou
 
 ---
 
-⭐ *“La géomatique au service du territoire et du développement durable”*
+<div align="center">
+
+⭐ *« La géomatique au service du territoire et du développement durable »*  
+
+<br>
+
+👉 **Consultez mon portfolio | Connectez-vous sur LinkedIn | Contactez-moi**
+
+</div>
 
 </div>
