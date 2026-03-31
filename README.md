@@ -47,6 +47,11 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 - 🌐 Conception d’applications WebSIG  
 
 ---
+### 📄 Curriculum Vitae
+> [!IMPORTANT]
+> **[📥 Cliquez ici pour télécharger mon CV complet (PDF)](./CV%20MARIAMA%20SIRE%20DIALLO%20.pdf)**
+
+---
 
 ## 📫 Contact
 - 🔗 **LinkedIn :** [Mariama Siré DIALLO](https://www.linkedin.com/in/mariama-siré-diallo-605ab9285)  
