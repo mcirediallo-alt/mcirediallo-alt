@@ -47,20 +47,23 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 - 🌐 Conception d’applications WebSIG  
 
 ---
-### 📄 Curriculum Vitae
-> [!IMPORTANT]
-> **[📥 Cliquez ici pour télécharger mon CV complet (PDF)](./CV%20MARIAMA%20SIRE%20DIALLO%20.pdf)**
-
----
-
-## 📫 Contact
-- 🔗 **LinkedIn :** [Mariama Siré DIALLO](https://www.linkedin.com/in/mariama-siré-diallo-605ab9285)  
-- 📧 **Email :** [mcire.diallo@univ-thies.sn](mailto:mcire.diallo@univ-thies.sn)  
-
----
 
 <div align="center">
 
-### *« Transformer la donnée géographique en levier de développement durable pour nos territoires. »*
+  ### 📄 Curriculum Vitae
+
+  <a href="./CV%20MARIAMA%20SIRE%20DIALLO%20.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/TÉLÉCHARGER-MON%20CV%20(PDF)-d13639?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Télécharger mon CV" />
+  </a>
+
+  <br><br>
+
+  « Transformer la donnée géographique en levier de développement durable. »
+
+  <br>
+
+  [🔗 LinkedIn](https://www.linkedin.com/in/mariama-siré-diallo-605ab9285) | [📧 Email](mailto:mcire.diallo@ussein.edu.sn)
 
 </div>
+
+---
