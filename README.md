@@ -58,7 +58,7 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
   <br><br>
 
-  « Transformer la donnée géographique en levier de développement durable. »
+  « **Transformer la donnée géographique en levier de développement durable. »
 
   <br>
 
