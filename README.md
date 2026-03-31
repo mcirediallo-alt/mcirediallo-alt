@@ -10,8 +10,6 @@
 
 ---
 
-<div style="font-family: 'Times New Roman', serif;">
-
 ## 🌍 À propos de moi
 Géomaticienne spécialisée en **Systèmes d’Information Géographique (SIG)**, avec une expertise en **gestion foncière et analyse spatiale**.  
 J’utilise les données géographiques pour produire des outils d’aide à la décision dans des projets territoriaux au Sénégal.
@@ -29,7 +27,7 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 ## 🛠️ Compétences techniques
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,github,svg" />
 </p>
 
 - 🗺️ **SIG :** QGIS, ArcGIS  
@@ -41,25 +39,22 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
 ---
 
-## 💼 Mes activitées
+## 💼 Mes activités
 
 - 📍 Production de cartes thématiques avec QGIS (Atlas)  
 - 🗺️ Structuration et gestion de bases de données spatiales  
 - 📊 Analyse spatiale pour l’aide à la décision territoriale  
-- 🚁 Traitement et valorisation de données drone  
+- 🚁 Traitement et valorisation de données drone (Photogrammétrie)  
 - 🌐 Conception d’applications WebSIG  
 
 ---
 
 ## 📫 Contact
-- 🔗 LinkedIn : www.linkedin.com/in/mariama-siré-diallo-605ab9285  
-- 📧 Email : mcire.diallo@univ-thies.sn  
+- 🔗 **LinkedIn :** [Mariama Siré DIALLO](https://www.linkedin.com/in/mariama-siré-diallo-605ab9285)  
+- 📧 **Email :** [mcire.diallo@univ-thies.sn](mailto:mcire.diallo@univ-thies.sn)  
 
 ---
 
 <div align="center">
 
-
-**La géomatique au service du territoire et du développement durable** 
-
-</div>
+**La géomatique au service du territoire et du développement durable** </div>
