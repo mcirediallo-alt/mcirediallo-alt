@@ -62,7 +62,7 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
   <br>
 
-  [🔗 LinkedIn](https://www.linkedin.com/in/mariama-siré-diallo-605ab9285) | [📧 Email](mailto:mcire.diallo@ussein.edu.sn)
+ [Consultez mon portfolio](https://github.com/mcirediallo-alt?tab=repositories) - [Connectez-vous sur LinkedIn](https://www.linkedin.com/in/mariama-siré-diallo-605ab9285) - [Contactez-moi](mailto:mcire.diallo@ussein.edu.sn)
 
 </div>
 
