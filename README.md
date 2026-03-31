@@ -24,21 +24,14 @@ Je transforme les données géographiques en outils d’aide à la décision pou
 - 🚁 Photogrammétrie & traitement drone  
 - 🌱 Suivi environnemental & aménagement du territoire  
 
----
-
 ## 🛠️ Compétences techniques
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql" />
-</p>
 
-- **SIG :** QGIS, ArcGIS  
-- **Base de données :** PostGIS, SQL  
-- **Développement :** Python (PyQGIS, GeoPandas)  
-- **WebSIG :** GeoServer, Leaflet  
-- **Terrain :** KoboCollect, QField  
-
----
-
+- 🗺️ **SIG :** QGIS, ArcGIS  
+- 🗄️ **Bases de données :** PostgreSQL / PostGIS, pgAdmin  
+- 💻 **Développement :** Python (PyQGIS, GeoPandas), SQL  
+- 🌐 **WebSIG :** GeoServer, Leaflet  
+- 🚁 **Drone & Télédétection :** Agisoft Metashape, imagerie satellite  
+- 📱 **Collecte terrain :** KoboCollect, QField  
 ## 📊 Mon activité GitHub
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mcirediallo-alt&show_icons=true&theme=tokyonight"/>
