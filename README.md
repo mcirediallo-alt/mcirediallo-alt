@@ -26,21 +26,18 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
 ---
 
-##  Compétences techniques
+## 🛠️ Compétences techniques
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,js,git,linux" />
 </p>
 
 - 🗺️ **SIG :** QGIS, ArcGIS  
 - 🗄️ **Base de données :** PostGIS, pgAdmin  
-- 💻 **Développement :** Python (PyQGIS, GeoPandas), SQL  
+- 💻 **Développement :** Python (PyQGIS, GeoPandas), SQL, JavaScript (Leaflet)  
 - 🌐 **WebSIG :** GeoServer, Leaflet  
 - 🚁 **Drone & Télédétection :** Agisoft Metashape, imagerie satellite  
 - 📱 **Collecte terrain :** KoboCollect, QField  
-
----
-
 ## Mes activitées 
 
 - 📍 Production de cartes thématiques avec QGIS (Atlas)  
