@@ -47,10 +47,7 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 - 🌐 Conception d’applications WebSIG  
 
 ---
-
-       <div align="center">
-
-  ### 📄 Curriculum Vitae
+### 📄 Curriculum Vitae
   <a href="./CV%20MARIAMA%20SIRE%20DIALLO%20.pdf" target="_blank">
     <img src="https://img.shields.io/badge/TÉLÉCHARGER-MON%20CV%20(PDF)-d13639?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Télécharger mon CV" />
   </a>
@@ -61,9 +58,7 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
   <br><br>
 
-  <a href="https://github.com/mcirediallo-alt?tab=repositories"><b>Consultez mon portfolio</b></a> — 
-  <a href="https://www.linkedin.com/in/mariama-siré-diallo-605ab9285" target="_blank"><b>Connectez-vous sur LinkedIn</b></a> — 
-  <a href="mailto:mcire.diallo@univ-thies.sn?subject=Contact%20depuis%20votre%20profil%20GitHub"><b>Contactez-moi</b></a>
+  [Consultez mon portfolio](https://github.com/mcirediallo-alt?tab=repositories) — [Connectez-vous sur LinkedIn](https://www.linkedin.com/in/mariama-siré-diallo-605ab9285) — [Contactez-moi](mailto:mcire.diallo@univ-thies.sn?subject=Prise%20de%20contact%20professionnelle%20-%20GitHub)
 
   <br>
   <code>mcire.diallo@univ-thies.sn</code>
@@ -71,10 +66,3 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 </div>
 
 ---
-  <br><br>
-
-  <a href="https://github.com/mcirediallo-alt?tab=repositories">Consultez mon portfolio</a> — 
-  <a href="https://www.linkedin.com/in/mariama-siré-diallo-605ab9285" target="_blank">Connectez-vous sur LinkedIn</a> — 
-  <a href="mailto:mcire.diallo@univ-thies.sn?subject=Contact%20via%20GitHub">Contactez-moi</a>
-
-</div>
