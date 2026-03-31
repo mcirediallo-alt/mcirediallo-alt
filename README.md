@@ -59,10 +59,10 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
   *« Transformer la donnée géographique en levier de développement durable pour nos territoires. »*
 
-  <br><br>
+ <br><br>
 
   <a href="https://github.com/mcirediallo-alt?tab=repositories">Consultez mon portfolio</a> — 
-  <a href="https://www.linkedin.com/in/mariama-siré-diallo-605ab9285">Connectez-vous sur LinkedIn</a> — 
-  <a href="mailto:mcire.diallo@univ-thies.sn">Contactez-moi</a>
+  <a href="https://www.linkedin.com/in/mariama-siré-diallo-605ab9285" target="_blank">Connectez-vous sur LinkedIn</a> — 
+  <a href="mailto:mcire.diallo@univ-thies.sn?subject=Contact%20via%20GitHub">Contactez-moi</a>
 
 </div>
