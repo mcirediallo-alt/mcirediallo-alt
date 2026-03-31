@@ -41,7 +41,7 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
 ---
 
-## Mes acrivitées 
+## Mes activitées 
 
 - 📍 Production de cartes thématiques avec QGIS (Atlas)  
 - 🗺️ Structuration et gestion de bases de données spatiales  
