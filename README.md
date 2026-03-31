@@ -33,6 +33,7 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
   <img src="https://img.shields.io/badge/QGIS-93b023?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoCAD-213547?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/GeoServer-2b749a?style=for-the-badge&logo=geoserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Leaflet-1999e5?style=for-the-badge&logo=leaflet&logoColor=white" />
   <img src="https://img.shields.io/badge/Metashape-E11E58?style=for-the-badge&logo=agisoft&logoColor=white" />
