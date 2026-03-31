@@ -48,21 +48,25 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
 ---
 
----
+<div align="center">
 
-### 📄 Mon Curriculum Vitae
-<a href="./CV%20MARIAMA%20SIRE%20DIALLO%20.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/TÉLÉCHARGER-CV%20(PDF)-d13639?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
-</a>
+  ![Profile Views](https://komarev.com/ghpvc/?username=mcirediallo-alt&color=blueviolet&style=flat-square)
 
-<br>
+  ### 📄 Mon Curriculum Vitae
+  <a href="./CV%20MARIAMA%20SIRE%20DIALLO%20.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/TÉLÉCHARGER-CV%20(PDF)-d13639?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
 
-*« Transformer la donnée géographique en levier de développement durable. »*
+  <br>
 
-**[📂 Portfolio](https://github.com/mcirediallo-alt?tab=repositories) — [🔗 LinkedIn](https://www.linkedin.com/in/mariama-siré-diallo-605ab9285) — [📩 Contact](mailto:mcire.diallo@univ-thies.sn)**
+  *« Transformer la donnée géographique en levier de développement durable. »*
 
-`mcire.diallo@univ-thies.sn`
+  <br>
 
----
+  📂 [**Portfolio**](https://github.com/mcirediallo-alt?tab=repositories) — 🔗 [**LinkedIn**](https://www.linkedin.com/in/mariama-siré-diallo-605ab9285) — 📧 [**Contact**](mailto:mcire.diallo@univ-thies.sn)
+
+  <br>
+
+  `mcire.diallo@univ-thies.sn`
 
 </div>
