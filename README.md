@@ -27,15 +27,16 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 ## 🛠️ Compétences techniques
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,github,svg" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,postman,github,svg" />
 </p>
 
-- 🗺️ **SIG :** QGIS, ArcGIS  
-- 🗄️ **Base de données :** PostGIS, pgAdmin  
-- 💻 **Développement :** Python (PyQGIS, GeoPandas), SQL  
-- 🌐 **WebSIG :** GeoServer, Leaflet  
-- 🚁 **Drone & Télédétection :** Agisoft Metashape, imagerie satellite  
-- 📱 **Collecte terrain :** KoboCollect, QField  
+<p align="center">
+  <img src="https://img.shields.io/badge/QGIS-93b023?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeoServer-2b749a?style=for-the-badge&logo=geoserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet-1999e5?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metashape-E11E58?style=for-the-badge&logo=agisoft&logoColor=white" />
+</p>
 
 ---
 
@@ -57,4 +58,6 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
 <div align="center">
 
-**La géomatique au service du territoire et du développement durable** </div>
+### 💡 *« Transformer la donnée géographique en levier de développement durable pour nos territoires. »*
+
+</div>
