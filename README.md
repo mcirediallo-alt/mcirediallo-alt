@@ -11,7 +11,7 @@
 ---
 
 ## 🌍 À propos de moi
-Géomaticienne spécialisée en **Systèmes d’Information Géographique (SIG)**, avec une expertise en **gestion foncière et analyse spatiale**.  
+Géomaticienne spécialisée en **Systèmes d’Information Géographique (SIG)** avec une expertise en **gestion foncière et analyse spatiale**.  
 J’utilise les données géographiques pour produire des outils d’aide à la décision dans des projets territoriaux au Sénégal.
 
 ---
