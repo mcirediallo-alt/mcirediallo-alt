@@ -33,5 +33,5 @@ Passionnée par l'analyse spatiale et la gestion de projets territoriaux au Sén
 ---
 
 ### 📫 Me contacter
-* **LinkedIn :** [Ton lien LinkedIn ici]
-* **Email :** mcirediallo@exemple.com
+* **LinkedIn :** [www.linkedin.com/in/mariama-siré-diallo-605ab9285]
+* **Email :** mcire.diallo@univ-thies.sn
