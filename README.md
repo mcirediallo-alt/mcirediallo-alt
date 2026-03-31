@@ -26,7 +26,7 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 ## 🛠️ Compétences techniques
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,postman,github,svg" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,postman,github,svg,r" />
 </p>
 
 <p align="center">
@@ -38,6 +38,13 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
   <img src="https://img.shields.io/badge/Leaflet-1999e5?style=for-the-badge&logo=leaflet&logoColor=white" />
   <img src="https://img.shields.io/badge/Metashape-E11E58?style=for-the-badge&logo=agisoft&logoColor=white" />
 </p>
+
+- 🗺️ **SIG & DAO :** QGIS, ArcGIS, AutoCAD (Dessin & Topographie)  
+- 🗄️ **Base de données :** PostGIS, pgAdmin  
+- 💻 **Développement & Stat :** Python (PyQGIS), R (RStudio / GeoStatistics), SQL  
+- 🌐 **WebSIG :** GeoServer, Leaflet  
+- 🚁 **Drone & Télédétection :** Agisoft Metashape, imagerie satellite  
+- 📱 **Collecte terrain :** KoboCollect, QField
 
 ## 💼 Mes activités
 
