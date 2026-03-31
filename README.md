@@ -47,7 +47,10 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 - 🌐 Conception d’applications WebSIG  
 
 ---
-### 📄 Curriculum Vitae
+
+<div align="center">
+
+  ### 📄 Curriculum Vitae
   <a href="./CV%20MARIAMA%20SIRE%20DIALLO%20.pdf" target="_blank">
     <img src="https://img.shields.io/badge/TÉLÉCHARGER-MON%20CV%20(PDF)-d13639?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Télécharger mon CV" />
   </a>
@@ -58,11 +61,11 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
   <br><br>
 
-  [Consultez mon portfolio](https://github.com/mcirediallo-alt?tab=repositories) — [Connectez-vous sur LinkedIn](https://www.linkedin.com/in/mariama-siré-diallo-605ab9285) — [Contactez-moi](mailto:mcire.diallo@univ-thies.sn?subject=Prise%20de%20contact%20professionnelle%20-%20GitHub)
+  [📂 Consultez mon portfolio](https://github.com/mcirediallo-alt?tab=repositories) — 
+  [🔗 Connectez-vous sur LinkedIn](https://www.linkedin.com/in/mariama-siré-diallo-605ab9285) — 
+  [📩 **Contactez-moi (Formulaire)**](TON_LIEN_FORMSPREE)
 
   <br>
-  <code>mcire.diallo@univ-thies.sn</code>
+  <small>Ou par email direct : mcire.diallo@univ-thies.sn</small>
 
 </div>
-
----
