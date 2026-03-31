@@ -48,7 +48,7 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
 ---
 
-<div align="center">
+       <div align="center">
 
   ### 📄 Curriculum Vitae
   <a href="./CV%20MARIAMA%20SIRE%20DIALLO%20.pdf" target="_blank">
