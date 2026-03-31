@@ -59,12 +59,6 @@ J’utilise les données géographiques pour produire des outils d’aide à la 
 
 <div align="center">
 
-⭐ *« La géomatique au service du territoire et du développement durable »*  
-
-<br>
-
-👉 **Consultez mon portfolio | Connectez-vous sur LinkedIn | Contactez-moi**
-
-</div>
+⭐ **« La géomatique au service du territoire et du développement durable »*  
 
 </div>
